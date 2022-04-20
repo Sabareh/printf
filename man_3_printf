@@ -1,6 +1,6 @@
 .\" _printf man page /usr/share/man/man3/printf.3
 .\"
-.TH _PRINTF 3 "15-03-2021" "0.1" "Holberton _printf"
+.TH _PRINTF 3 "20-04-2022" "0.1" "printf"
 
 .SH NAME
 _printf
@@ -85,4 +85,4 @@ Upon success, these main function will return the number of characters printed.
 Memory issues are known to frequent this function. User beware.
 
 .SH "AUTHOR"
-Cindy Macharia and Mushie Waweru
+Sabare Victor and Dennic Wachira
